@@ -38,7 +38,7 @@ I'm a passionate and self-driven software engineer focused on building modern, u
 - Responsive UI with TailwindCSS
 
 🔗 [Backend Source Code](https://github.com/shailendra40/employees-mgmt-sys-backend)  
-🔗 [Frontend Source Code](https://github.com/shailendra40/employee-mgmt-frontend)
+🔗 [Frontend Source Code](https://github.com/shailendra40/employees-mgmt-frontend)
 
 ---
 
