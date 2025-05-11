@@ -46,8 +46,8 @@ I'm a passionate and self-driven software engineer focused on building modern, u
 
 ### 📫 Connect with Me
 
-- 📧 Email: your-email@example.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/shailendra-yadav)  
+- 📧 Email: ysly305@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/er-shailendra-yadav-115881116/)  
 - 💼 Portfolio: [your-portfolio.vercel.app](https://your-portfolio.vercel.app)
 
 ---
